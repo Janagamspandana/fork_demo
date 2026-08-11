@@ -1,2 +1,3 @@
 This is a non-fast-forward demonstration.
 Local change for non-fast-forward
+Remote change after local push
